@@ -1,0 +1,5 @@
+Bir geneksinim yok, CefSharp olması yeterli, ha birde Wine desteği yoktur. Wine ile açılmayacaktır.
+
+
+sorular:
+neden any.run veya tria.ge ile test ettiğimizde regedit ile unistaller kayıtlarına bakılıyor diye risk var deniliyor, burda asıl esas şu ki,uygulama çıktıktan 1 ay sonra v2 yayınladık. v2'de autounistaller var. yani regedit ile unistallerde AlpStudios346 kayıdı nvarmı diye bakılıyor. varsa unistaller açılıyor. yani kurulu appleri bulup çalma diye bir niyetimiz yok.
