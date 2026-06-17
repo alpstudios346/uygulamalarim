@@ -1,0 +1,6 @@
+Nasıl yüklenir??
+Adım 1: Redmi geneksimi
+Şu anda uygulama onlyAndroid13 tabanlıdır (sadece android 13)
+Ayrıca Samsung veya üst sürüm android destekli değildir.
+Ayrıca tabletlerde çözünürlük çakışması nedeniyle uygulama çöker.
+Merak etmeyin, tabiiki bunları düzelteceğiz.
